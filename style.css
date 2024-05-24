@@ -36,7 +36,18 @@ background-repeat: no-repeat;
     flex-direction: column;
     align-items: center;
     
+}
+#left h1{
+    font-size: 7vw;
+    color: #32a39e;
 
+}
+#left p{
+    text-align: center;
+     padding:1vh 4vw;
+     font-size: 1.5vw;
+     color: black;
+ }
 
 @media screen and (max-width:480px){
 
