@@ -49,6 +49,20 @@ background-repeat: no-repeat;
      color: black;
  }
 
+#left button{
+    padding: 1vh 2vw;
+    background:linear-gradient(to right,#c832f5,#8cc7f7,rgb(40, 152, 139));
+box-shadow:  20px 20px 60px #32a39e,
+             -20px -20px 60px #c843d4;
+    text-transform: uppercase;
+    transition: all 1s linear;
+    border-radius: 15px;
+    border: none;
+    font-size: 1.5vw; 
+    margin-top: 4vh; 
+    
+}
+
 @media screen and (max-width:480px){
 
 
